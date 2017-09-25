@@ -24,7 +24,7 @@ Seriously though, I'd like to become a better developer and hopefully help some 
 
 **Plan**: Initially, I will work my way through P1xt's FAQ guide, move on to the front-end / job-ready curriculum, and finish off by completing the more broad web dev / cs guide. I realize that this will take a serious time commitment, but time is what I currently have. I am ready to invest it properly.
 
-If you'd like to follow my journey, check out [my first entry](faq_progress/9_23_17.md) or look through the different posts in this directory.
+If you'd like to follow my journey, check out [my first entry](9_23_17.md) or look through the different posts in this directory.
 
 Thank you,
 Shug =]
