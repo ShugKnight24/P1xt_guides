@@ -1,8 +1,10 @@
 # Frequently Asked Questions
-## What are the pre-requisites to begin any of the guides?
-You should understand how to use Git and Github, which you can learn using any of these free resources:
 
-**Note**: Just pick one of the courses below to learn the basics. You will learn a lot more once you get started!
+~~## What are the pre-requisites to begin any of the guides?~~
+
+~~You should understand how to use Git and Github, which you can learn using any of these free resources:~~
+
+~~**Note**: Just pick one of the courses below to learn the basics. You will learn a lot more once you get started!~~
 
 ~~- [Try Git](https://try.github.io/levels/1/challenges/1)~~
 
@@ -16,16 +18,23 @@ You should understand how to use Git and Github, which you can learn using any o
 
 ~~- [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)~~
 
-- How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
+~~- How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)~~
 
-## What development environment should I be using?
-* Pick your favorite editor, write all your code on your own machine in that editor
-* Save all your code to GitHub
-* Publish all your projects to the web  - using surge.sh, github pages, heroku etc
-* Avoid codepen.
-* Avoid cloud 9 or any other "just code it on the web so you don't have to learn how to code on your own machine" site.
-* Whenever you are doing a "Clone this" project - use only  assets you create yourself or that have copyrights which would allow you to use them.
-* Develop the habit of giving attribution for everything you use that was the product of someone else's effort.
+~~## What development environment should I be using?~~
+
+~~* Pick your favorite editor, write all your code on your own machine in that editor~~
+
+~~* Save all your code to GitHub~~
+
+~~* Publish all your projects to the web  - using surge.sh, github pages, heroku etc~~
+
+~~* Avoid codepen.~~
+
+~~* Avoid cloud 9 or any other "just code it on the web so you don't have to learn how to code on your own machine" site.~~
+
+~~* Whenever you are doing a "Clone this" project - use only  assets you create yourself or that have copyrights which would allow you to use them.~~
+
+~~* Develop the habit of giving attribution for everything you use that was the product of someone else's effort.~~
 
 ## How should I approach the items in the guides?
 ### Power up your learning - make every minute count
