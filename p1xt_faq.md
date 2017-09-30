@@ -51,18 +51,27 @@ commit messages](http://chris.beams.io/posts/git-commit/)~~
 
 ~~* As you learn, take the time to discuss what you're learning with others: write blog posts, spend time actively discussing code and concepts with other developers (of varying skill levels), if you're comfortable with it - produce some helpful videos explaining topics that others might find daunting, and (most importantly) embrace the opportunity to help others one on one. You never know something so thoroughly as when you take the time to deeply consider it and explain it to someone else who might be struggling. Helping others doesn't just benifit them, it benefits you by increasing your understanding and mastery of the topic. Help people - you'll learn a lot in the process - you'll be a better developer for having done it.~~
 
-### For each item you should:
-* take notes, on a blog, in markdown, wherever, somewhere - not about what you read, or about what the instructor said - about what you learned
-* build something - even if it's just a 20 line function that computes something you find interesting
-* if you build something, document it and test it as appropriate
-* do the exercises, build the projects - fully, not some scaled down halfassery
+~~### For each item you should:~~
 
-### For four projects of your choosing
-* Seek 1-3 other developers to collaborate on the project
-* Coordinate with the team to complete the project
-* Build the project out to a full production quality application
-* Invite others who are not associated with the team to rigorously test the final product.
-* Resolve any legitimate issues found
+~~* take notes, on a blog, in markdown, wherever, somewhere - not about what you read, or about what the instructor said - about what you learned~~
+
+~~* build something - even if it's just a 20 line function that computes something you find interesting~~
+
+~~* if you build something, document it and test it as appropriate~~
+
+~~* do the exercises, build the projects - fully, not some scaled down halfassery~~
+
+~~### For four projects of your choosing~~
+
+~~* Seek 1-3 other developers to collaborate on the project~~
+
+~~* Coordinate with the team to complete the project~~
+
+~~* Build the project out to a full production quality application~~
+
+~~* Invite others who are not associated with the team to rigorously test the final product.~~
+
+~~* Resolve any legitimate issues found~~
 
 ### Once per month - do two or more of the following:
 * Write up a comprehensive blog post or markdown entry in a repository detailing the high points of what you learned that month
