@@ -74,22 +74,29 @@ commit messages](http://chris.beams.io/posts/git-commit/)~~
 ~~* Resolve any legitimate issues found~~
 
 ### Once per month - do two or more of the following:
-* Write up a comprehensive blog post or markdown entry in a repository detailing the high points of what you learned that month
+
+~~* Write up a comprehensive blog post or markdown entry in a repository detailing the high points of what you learned that month~~
+
 * Watch [this video](https://www.youtube.com/watch?v=4NIb9l3imAo) and [this video](https://www.youtube.com/watch?v=Eg5-tdAwclo) - on interviewing
 * Read [this](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html) - on crafting a resume
 * Do one lesson from [CUST104: Business Communications](https://learn.saylor.org/course/view.php?id=345)
 * Live stream what you're working on for an hour. Or, lend a hand to someone who needs help by screensharing and walking them through it.
 * Catch up on industry reading on sites like [Joel on Software](https://www.joelonsoftware.com/), [Coding Horror](https://blog.codinghorror.com/), [CSS Tricks](https://css-tricks.com/), [A List Apart](http://alistapart.com/articles), [UX Myths](http://uxmyths.com/), [JavaScript Weekly](http://javascriptweekly.com/)
 
-## Do you have any hints for success?
-* have git commits every week, most of the days of the week
-* try to get in one of [@tropicalchancer's cohorts](https://tropicalchancer.github.io/projectus/) - be active once you're in
-* try to pick one to two other languages to use regularly for solving algorithms and implementing projects in addition to JavaScript (good choices would be to pick one of C++, Java or Python and one of Golang or Rust).
-* spend 30 minutes a day studying math on Khan Academy
+~~## Do you have any hints for success?~~
 
-## What should I be studying alongside the guides?
-There WILL be math. And, it's important. If the thought frightens you, or bores you, or has you thinking
-"this isn't for me", head to [Khan Academy](https://www.khanacademy.org/) right now, sign up, and start devoting 30 minutes a day. This is an investment that will pay off. I'm not making this up.
+~~* have git commits every week, most of the days of the week~~
+
+~~* try to get in one of [@tropicalchancer's cohorts](https://tropicalchancer.github.io/projectus/) - be active once you're in~~
+
+~~* try to pick one to two other languages to use regularly for solving algorithms and implementing projects in addition to JavaScript (good choices would be to pick one of C++, Java or Python and one of Golang or Rust).~~
+
+~~* spend 30 minutes a day studying math on Khan Academy~~
+
+~~## What should I be studying alongside the guides?~~
+
+~~There WILL be math. And, it's important. If the thought frightens you, or bores you, or has you thinking
+"this isn't for me", head to [Khan Academy](https://www.khanacademy.org/) right now, sign up, and start devoting 30 minutes a day. This is an investment that will pay off. I'm not making this up.~~
 
 ## Should I work through a guide in order?
 Yes. Skip nothing, even if you think you already know it.
