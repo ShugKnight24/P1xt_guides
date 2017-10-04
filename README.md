@@ -5,7 +5,8 @@
 Tentative To-Do:
 
 - [ ] I will start with the [FAQ Guide](https://github.com/P1xt/p1xt-guides/blob/master/faq.md)
-- [ ] Move to [Job Ready Guide](https://github.com/P1xt/p1xt-guides/blob/master/job-ready.md)
+- [ ] Move to [Javascript Job Ready](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md)
+  - Formerly it was, [Job Ready Guide](https://github.com/P1xt/p1xt-guides/blob/master/job-ready.md)
 - [ ] Finish with [Web Dev / CS Guide](https://github.com/P1xt/p1xt-guides/blob/master/wd-cs.md)
 
 I will be updating my progress with the FAQ guide in [FAQ Progress](faq_progress/faq_progress.md).
