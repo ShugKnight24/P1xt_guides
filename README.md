@@ -10,3 +10,9 @@ Tentative To-Do:
 - [ ] Finish with [Web Dev / CS Guide](https://github.com/P1xt/p1xt-guides/blob/master/wd-cs.md)
 
 I will be updating my progress with the FAQ guide in [FAQ Progress](faq_progress/faq_progress.md).
+
+  - My first post is on [9/23](faq_progress/9_23_17.md).
+
+I will be updating my progress with the Javascript Job Ready guide in [Javascript Job Ready](javascript_job_ready/javascript_job_ready.md).
+
+  - My first post is on [10/1](javascript_job_ready/10_01_17.md).
