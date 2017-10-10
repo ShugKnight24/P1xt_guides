@@ -28,3 +28,7 @@ If you'd like to follow my journey, check out [my first entry](9_23_17.md) or lo
 
 Thank you,
 Shug =]
+
+**Update 10/9**: Today, on October 9th, I interacted with @P1xt on twitter, and she recommended that I create a Medium to post my entries on as to not get bogged down with a setup time for a more official blog. I did just that and posted a slightly edited version of this post. [Check it out](https://medium.com/@ShugKnight24/the-journey-to-become-a-better-programmer-2e57c62a3e4e)! As always, I'd love to hear what you think.
+
+In the future, I hope to post more of my progress posts there, but I think that will be somewhat reserved for more refined posts that cover a longer time span. I do still plan on posting a lot of my daily progress in this repository.
