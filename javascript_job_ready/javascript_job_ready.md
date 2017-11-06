@@ -2,7 +2,7 @@
 
 ### 10/3/2017
 
-**Initial Thoughts**: I noticed that I had not written an intro to the JavaScript Job Ready section like I had for the FAQ section. I somewhat wrote one in the beginning of the [10/1/2017](10_01_17.md) post, but I wanted to expand on it and give a bit more of my thoughts before I jump further into the JavaScript Job Ready guide.
+**Initial Thoughts**: I noticed that I had not written an intro to the JavaScript Job Ready section like I had for the FAQ section. I somewhat wrote one in the beginning of the [10/1/2017](october_17/10_01_17.md) post, but I wanted to expand on it and give a bit more of my thoughts before I jump further into the JavaScript Job Ready guide.
 
 I've been quite pleased with how things have been going thus far. That is, everything aside from a lack of sleep. I've been focusing so much on work, the gym, studying after hours, and writing these posts that my sleep has been suffering as result. I will get my sleep in order or it will all come crumbling down. I think that a lot of people underestimate how much a restful night's sleep impacts the following day. Like myself, everyone has so much they want to do in any given day. It is like that saying about college. You have grades, your social life, and sleep. You can only pick two. A lot of us think that we can get by in a chronically tired state. We tell ourselves that our body adapts. We champion those who sleep little as "*more committed*" or "*always hustling*", but I often wonder if those people would actually be more productive if they slept more. I can function on sub 6 hours of sleep. Functioning is different than working at an optimal level and all cylinders firing. There is a definite decline in my cognitive abilities when I don't get an adequate amount of sleep. Another thing I notice is that I do not recover from my workouts as I normally would when I have a night of suboptimal sleep. If I have a solid 8 hours of uninterrupted sleep, I am ready to conquer my day, my mood is elevated and more consistent, and I am more outgoing. If I get less, it takes me a bit of time to get into the zone, I have highs, but I have lows, and I like to keep to myself more. I know that once I get into a solid routine, I can juggle all of these things effectively, but the one cornerstone I cannot skip my sleep.
 
@@ -34,7 +34,7 @@ I've also been playing with the Git integration in Atom and it is awesome! You c
 
 One thing that is unfortunate is that the update killed my `atom-live-server` package, but I'm sure they'll be able to patch it shortly.
 
-That's it for now. If you'd like to start with my JavaScript Job Ready progress from the beginning, check out the [10/1/2017](10_01_17.md) post.
+That's it for now. If you'd like to start with my JavaScript Job Ready progress from the beginning, check out the [10/1/2017](october_17/10_01_17.md) post.
 
 Until next time,
 
